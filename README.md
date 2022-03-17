@@ -19,6 +19,10 @@ I run a not very often updated [Blog on my Website](http://barrycarlyon.co.uk)
 
 I have a contact form on my [Website](http://barrycarlyon.co.uk/wordpress/contact/)
 
+# Stuff and things
+
+![BarryCarlyons's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrycarlyon&show_icons=true&theme=tokyonight&count_private=true)
+
 <!--
 **BarryCarlyon/BarryCarlyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
