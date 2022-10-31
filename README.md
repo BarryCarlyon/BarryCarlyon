@@ -16,6 +16,7 @@ I am a [Twitch (Dev) Ambassador](https://www.twitch.tv/team/ambassadors)
 
 - [Twitter](https://twitter.com/barrycarlyon)
 - [Twitch](https://twitch.tv/barrycarlyon)
+- <a rel="me" href="https://mstdn.io/@BarryCarlyon">Mastodon</a>
 
 # Contact
 
