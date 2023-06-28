@@ -11,12 +11,14 @@ I spend a lot of time helping people on the Twitch Dev [Forum](https://discuss.d
 I run a not very often updated [Blog on my Website](http://barrycarlyon.co.uk)
 
 I am a [Twitch (Dev) Ambassador](https://www.twitch.tv/team/ambassadors)
+I am an [IGDB Keeper](https://www.igdb.com/)
 
 # Links
 
 - [Twitter](https://twitter.com/barrycarlyon)
 - [Twitch](https://twitch.tv/barrycarlyon)
 - <a rel="me" href="https://mstdn.io/@BarryCarlyon">Mastodon</a>
+- [BlueSky](https://bsky.app/profile/barrycarlyon.co.uk)
 
 # Contact
 
