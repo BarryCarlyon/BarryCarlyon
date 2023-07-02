@@ -10,8 +10,10 @@ I spend a lot of time helping people on the Twitch Dev [Forum](https://discuss.d
 
 I run a not very often updated [Blog on my Website](http://barrycarlyon.co.uk)
 
-I am a [Twitch (Dev) Ambassador](https://www.twitch.tv/team/ambassadors)
-I am an [IGDB Keeper](https://www.igdb.com/)
+# Things that I am
+
+- I am a [Twitch (Dev) Ambassador](https://www.twitch.tv/team/ambassadors)
+- I am an [IGDB Keeper](https://www.igdb.com/)
 
 # Links
 
