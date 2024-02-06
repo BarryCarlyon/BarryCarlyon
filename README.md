@@ -18,9 +18,9 @@ I run a not very often updated [Blog on my Website](http://barrycarlyon.co.uk)
 # Links
 
 - [Twitter](https://twitter.com/barrycarlyon)
+- [BlueSky](https://bsky.app/profile/barrycarlyon.co.uk)
 - [Twitch](https://twitch.tv/barrycarlyon)
 - <a rel="me" href="https://mstdn.io/@BarryCarlyon">Mastodon</a>
-- [BlueSky](https://bsky.app/profile/barrycarlyon.co.uk)
 
 # Contact
 
