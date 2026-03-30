@@ -17,12 +17,12 @@ I run a not very often updated [Blog on my Website](http://barrycarlyon.co.uk)
 
 # Links
 
-- [Twitter](https://twitter.com/barrycarlyon)
 - [BlueSky](https://bsky.app/profile/barrycarlyon.co.uk)
 - [Twitch](https://twitch.tv/barrycarlyon)
 - <a rel="me" href="https://mstdn.io/@BarryCarlyon">Mastodon</a>
 - [IMDB](https://www.imdb.com/name/nm11673072/) (Crazy I know right)
-
+- [Twitter](https://twitter.com/barrycarlyon)
+  
 # Contact
 
 I have a contact form on my [Website](http://barrycarlyon.co.uk/wordpress/contact/)
