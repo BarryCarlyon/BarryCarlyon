@@ -29,9 +29,11 @@ I have a contact form on my [Website](http://barrycarlyon.co.uk/wordpress/contac
 
 # Stuff and things
 
-![BarryCarlyons's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrycarlyon&show_icons=true&theme=tokyonight&count_private=true)
+No stuff and things! ZOMGWAT
 
 <!--
+![BarryCarlyons's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrycarlyon&show_icons=true&theme=tokyonight&count_private=true)
+
 **BarryCarlyon/BarryCarlyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
